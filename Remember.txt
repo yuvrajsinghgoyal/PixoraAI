@@ -1,0 +1,42 @@
+---FrontEnd---
+PixoraAI – Pixels + Aurora + AI
+
+03:25:00/6:55:02
+06:35:00/6:55:02
+
+//Website and technology we use in this project 
+
+Framer Motion - this is use for animation in my project
+
+Razer pay Payment gatway - for payment
+
+//Revision Topic 
+useNavigate 
+useState
+AppContext.provider(Context Hook) 
+useContext
+useEffect
+totastify
+
+
+---Backend---
+
+//Technology and web we use 
+
+Post man - for test the api's
+Clipdrop - for api for ai image 
+
+// to revise 
+
+
+     axios
+    bcrypt
+    cors
+    dotenv 
+    expres 
+    form-data
+    jsonwebtoken
+    mongoose 
+    nodemon 
+    razorpay
+    middlewar
