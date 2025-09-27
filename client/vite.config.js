@@ -19,4 +19,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  build: {
+    emptyOutDir: false, // Prevents Vite from emptying the output directory before building
+  },
 })
